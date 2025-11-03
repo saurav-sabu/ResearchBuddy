@@ -1,0 +1,2 @@
+# ResearchBuddy
+Academic Research Agent
